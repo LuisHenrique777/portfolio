@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifolio Luis Henrique</title>
+</head>
+<body>
+    
+    <div style="width: 100%; height: 100%; position: relative; background: rgb(195, 244, 225)">
+        <div style="width: 342px; height: 24px; left: 974px; top: 49px; position: absolute">
+            <div style="left: 0px; top: 0px; position: absolute; text-align: center; color: #070F18; font-size: 16px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Meus Serviços</div>
+            <div style="left: 142px; top: 0px; position: absolute; text-align: center; color: #070F18; font-size: 16px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Fale Comigo</div>
+            <div style="left: 277px; top: 0px; position: absolute; text-align: center; color: #070F18; font-size: 16px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Portfolio</div>
+        </div>
+        <div style="left: 160px; top: 40px; position: absolute; color: #070F18; font-size: 28px; font-family: Poppins; font-weight: 600; text-decoration: underline; word-wrap: break-word">Portfolio</div>
+        <div style="left: 892px; top: 205px; position: absolute; text-align: right; color: black; font-size: 55px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Olá, meu nome<br/>é Luis Henrique</div>
+        <div style="left: 924px; top: 391px; position: absolute; text-align: right; color: #575455; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 32px; word-wrap: break-word">Sou Programador, gostaria de apresentar meu<br/>trabalho para você através deste portfólio.</div>
+        <div style="left: 148px; top: 1356px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Porfolio</div>
+        <div style="left: 148px; top: 1320px; position: absolute; text-align: center; color: #4e86f7; font-size: 16px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Conheça Meus Trabalho</div>
+        <div style="width: 180px; height: 48px; left: 1142px; top: 475px; position: absolute">
+            
+        </div>
+        <div style="width: 540px; height: 400px; left: 148px; top: 191px; position: absolute">
+            <div style="width: 390px; height: 400px; left: 0px; top: 0px; position: absolute; background: #C4C4C4; border-radius: 60px"></div>
+            <img style="width: 390px; height: 400px; left: 0px; top: 0px; position: absolute">  <img src ="C:\Users\sluis\Downloads\jovem-sorridente.png" />
+        </div>
+        <div style="width: 635.04px; height: 450px; left: 687px; top: 784px; position: absolute">
+            <div style="width: 635.04px; height: 450px; left: 0px; top: 0px; position: absolute; background: #C4C4C4; border-radius: 40px"></div>
+            <img style="width: 816.60px; height: 509.94px; left: -90.35px; top: -29.54px; position: absolute" src="c:\Users\sluis\OneDrive\Área de Trabalho\imagens\site....png" />
+        </div>
+        <img style="width: 300px; height: 225px; left: 148px; top: 1471px; position: absolute; border-radius: 30px" src="c:\Users\sluis\OneDrive\Área de Trabalho\imagens\site anime.png" />
+        <div style="left: 148px; top: 903px; position: absolute; color: black; font-size: 36px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Um dos meus <br/>trabalhos</div>
+        <div style="left: 148px; top: 873px; position: absolute; color: #4e86f7; font-size: 16px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Conheça Meus Trabalho</div>
+        <div style="left: 148px; top: 977px; position: absolute; color: #575455; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 32px; word-wrap: break-word"><br/>Site desenvolvido para uma empresa do ramo de sistemas ,<br/>site de facil navegabilidade e intuitivo.  <br/></div>
+        <div style="width: 406px; height: 48px; left: 148px; top: 1081px; position: absolute">
+            
+            
+        </div>
+       
+        </div>
+        
+
+        </div>
+        
+        
+        
+    </div> 
+</body>
+</html>
